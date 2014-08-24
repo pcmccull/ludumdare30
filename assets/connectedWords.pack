@@ -1,0 +1,241 @@
+
+connectedWords.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+credits
+  rotate: false
+  xy: 1, 423
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 1, 340
+  size: 673, 81
+  orig: 673, 81
+  offset: 0, 0
+  index: -1
+clickToBegin
+  rotate: false
+  xy: 1, 273
+  size: 453, 65
+  orig: 453, 65
+  offset: 0, 0
+  index: -1
+level50
+  rotate: false
+  xy: 1, 208
+  size: 401, 63
+  orig: 401, 63
+  offset: 0, 0
+  index: -1
+ludumdare_credit
+  rotate: false
+  xy: 1, 184
+  size: 395, 22
+  orig: 395, 22
+  offset: 0, 0
+  index: -1
+clickToTryAgain
+  rotate: false
+  xy: 1, 91
+  size: 261, 91
+  orig: 261, 91
+  offset: 0, 0
+  index: -1
+resourcesHud
+  rotate: false
+  xy: 1, 53
+  size: 272, 36
+  orig: 272, 36
+  offset: 0, 0
+  index: -1
+error_needmoreminerals
+  rotate: false
+  xy: 1, 29
+  size: 317, 22
+  orig: 317, 22
+  offset: 0, 0
+  index: -1
+planet_type_ub
+  rotate: false
+  xy: 1, 1
+  size: 149, 26
+  orig: 149, 26
+  offset: 0, 0
+  index: -1
+planet_type_pm
+  rotate: false
+  xy: 152, 1
+  size: 145, 26
+  orig: 145, 26
+  offset: 0, 0
+  index: -1
+waveNotice
+  rotate: false
+  xy: 456, 302
+  size: 236, 36
+  orig: 236, 36
+  offset: 0, 0
+  index: -1
+instructions_buildMines
+  rotate: false
+  xy: 803, 933
+  size: 155, 90
+  orig: 155, 90
+  offset: 0, 0
+  index: -1
+instruction_clickfactory
+  rotate: false
+  xy: 803, 841
+  size: 155, 90
+  orig: 155, 90
+  offset: 0, 0
+  index: -1
+instruction_connectWorlds
+  rotate: false
+  xy: 803, 749
+  size: 155, 90
+  orig: 155, 90
+  offset: 0, 0
+  index: -1
+planet_type_no_connection
+  rotate: false
+  xy: 299, 1
+  size: 124, 26
+  orig: 124, 26
+  offset: 0, 0
+  index: -1
+planet_type_sc
+  rotate: false
+  xy: 264, 156
+  size: 114, 26
+  orig: 114, 26
+  offset: 0, 0
+  index: -1
+build_factory
+  rotate: false
+  xy: 676, 352
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+button_bridge
+  rotate: false
+  xy: 803, 678
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+button_mine
+  rotate: false
+  xy: 803, 607
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+unconnectedWorld
+  rotate: false
+  xy: 869, 683
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+world
+  rotate: false
+  xy: 803, 541
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+world2
+  rotate: false
+  xy: 869, 617
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+world3
+  rotate: false
+  xy: 803, 475
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+factory
+  rotate: false
+  xy: 960, 987
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+mine
+  rotate: false
+  xy: 404, 235
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+instruction_connector
+  rotate: false
+  xy: 264, 120
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+explosion_particle
+  rotate: false
+  xy: 742, 389
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemyFighter
+  rotate: false
+  xy: 456, 278
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+myFighter
+  rotate: false
+  xy: 935, 727
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+healthbar
+  rotate: false
+  xy: 676, 347
+  size: 20, 3
+  orig: 20, 3
+  offset: 0, 0
+  index: -1
+enemyBullet
+  rotate: false
+  xy: 380, 175
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+myBullet
+  rotate: false
+  xy: 869, 607
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+
+connectedWords2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+starfield
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

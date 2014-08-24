@@ -1,0 +1,17 @@
+d:war/:0:application/unknown
+i:badlogic.jpg:68465:image/jpeg
+t:connectedWords.pack:3508:application/unknown
+i:connectedWords.png:140264:image/png
+i:connectedWords2.png:114285:image/png
+t:NumberFont.fnt:1528:application/unknown
+i:NumberFont.png:2432:image/png
+d:particles:0:application/unknown
+b:particles/smallExplosion.p:1957:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:768:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2732:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5068:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8574:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:870:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2923:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
